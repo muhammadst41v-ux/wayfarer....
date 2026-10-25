@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer | City & Travel Discovery Studio",
+  "description": "Curated city trips, underground experiences, local itineraries, and AI-powered journey planner for students and young professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,823 @@
+[
+  {
+    "id": "place-hunza-serena",
+    "name": "Hunza Serena Inn",
+    "destinationSlug": "hunza",
+    "type": "hotel",
+    "categoryLabel": "Heritage Resort",
+    "rating": 4.8,
+    "reviewCount": 420,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$120 - $190 / night (est.)",
+    "address": "Karimabad, Hunza Valley, Gilgit-Baltistan",
+    "phone": "+92 5813 457660",
+    "website": "https://www.serenahotels.com/hunza-serena-inn",
+    "coordinates": {
+      "lat": 36.324,
+      "lng": 74.664
+    },
+    "amenities": [
+      "Mountain View Balconies",
+      "Organic Orchard Gardens",
+      "Fine Dining",
+      "Free High-speed Wi-Fi",
+      "Airport Shuttle"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "photoAttribution": "Serena Hotels Archive / CC",
+    "source": "curated",
+    "openingHours": "24/7 Front Desk",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hunza+Serena+Inn",
+      "bookingCom": "https://www.booking.com/searchresults.html?ss=Hunza+Serena+Inn",
+      "agoda": "https://www.agoda.com/search?city=Hunza"
+    }
+  },
+  {
+    "id": "place-hunza-eagles-nest",
+    "name": "Eagle’s Nest Hotel Duikar",
+    "destinationSlug": "hunza",
+    "type": "hotel",
+    "categoryLabel": "Panoramic Alpine Lodge",
+    "rating": 4.6,
+    "reviewCount": 380,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$65 - $110 / night (est.)",
+    "address": "Duikar Village, Karimabad, Hunza",
+    "phone": "+92 5813 457582",
+    "website": "https://eaglesnesthunza.com",
+    "coordinates": {
+      "lat": 36.345,
+      "lng": 74.685
+    },
+    "amenities": [
+      "360° Karakoram Panorama",
+      "Campfire Terrace",
+      "Breakfast Included",
+      "Hiking Trails Access"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Eagle+Nest+Hotel+Duikar"
+    }
+  },
+  {
+    "id": "place-hunza-cafe-de-hunza",
+    "name": "Café de Hunza",
+    "destinationSlug": "hunza",
+    "type": "restaurant",
+    "categoryLabel": "Artisan Roastery & Bakery",
+    "rating": 4.7,
+    "reviewCount": 512,
+    "priceLevel": 1,
+    "priceRangeEstimate": "$4 - $12 / meal (est.)",
+    "address": "Karimabad Bazaar, Hunza",
+    "phone": "+92 5813 457102",
+    "coordinates": {
+      "lat": 36.321,
+      "lng": 74.662
+    },
+    "amenities": [
+      "Fresh Espresso",
+      "Famous Walnut Cake",
+      "Free Wi-Fi",
+      "Outdoor Terrace"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "openingHours": "08:00 - 22:00 Daily",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Cafe+de+Hunza"
+    }
+  },
+  {
+    "id": "place-hunza-baltit-fort",
+    "name": "Baltit Fort",
+    "destinationSlug": "hunza",
+    "type": "attraction",
+    "categoryLabel": "UNESCO World Heritage Tentative Site",
+    "rating": 4.9,
+    "reviewCount": 890,
+    "priceLevel": 1,
+    "priceRangeEstimate": "$8 entry with curator guide",
+    "address": "Baltit, Karimabad, Hunza",
+    "coordinates": {
+      "lat": 36.326,
+      "lng": 74.665
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1594897030560-69273c5cf8c3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "openingHours": "09:00 - 18:00 Daily",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Baltit+Fort"
+    }
+  },
+  {
+    "id": "place-hunza-hospital",
+    "name": "Aga Khan Health Centre Aliabad",
+    "destinationSlug": "hunza",
+    "type": "hospital",
+    "rating": 4.4,
+    "reviewCount": 86,
+    "priceLevel": 1,
+    "priceRangeEstimate": "Standard medical charges",
+    "address": "Aliabad Main KKH, Hunza",
+    "phone": "+92 5813 455018",
+    "coordinates": {
+      "lat": 36.308,
+      "lng": 74.615
+    },
+    "photos": [],
+    "source": "curated",
+    "openingHours": "24/7 Emergency",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Aga+Khan+Health+Centre+Aliabad"
+    }
+  },
+  {
+    "id": "place-hunza-atm",
+    "name": "HBL ATM & Foreign Exchange Aliabad",
+    "destinationSlug": "hunza",
+    "type": "atm",
+    "rating": 4.2,
+    "reviewCount": 45,
+    "priceLevel": 1,
+    "priceRangeEstimate": "Visa / Mastercard accepted",
+    "address": "Aliabad KKH Bazaar, Hunza",
+    "coordinates": {
+      "lat": 36.31,
+      "lng": 74.617
+    },
+    "photos": [],
+    "source": "curated",
+    "openingHours": "24 Hours",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=HBL+ATM+Aliabad+Hunza"
+    }
+  },
+  {
+    "id": "place-skardu-shangrila",
+    "name": "Shangrila Resort Skardu",
+    "destinationSlug": "skardu",
+    "type": "hotel",
+    "categoryLabel": "Lakeside Chalets",
+    "rating": 4.7,
+    "reviewCount": 950,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$140 - $240 / night (est.)",
+    "address": "Kachura, Skardu, Gilgit-Baltistan",
+    "phone": "+92 5815 454941",
+    "coordinates": {
+      "lat": 35.421,
+      "lng": 75.452
+    },
+    "amenities": [
+      "Private Heart-shaped Lake",
+      "Chinese Pagoda Architecture",
+      "Helipad",
+      "Fine Restaurant"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Shangrila+Resort+Skardu"
+    }
+  },
+  {
+    "id": "place-skardu-shigar-fort",
+    "name": "Serena Shigar Fort",
+    "destinationSlug": "skardu",
+    "type": "hotel",
+    "categoryLabel": "400-Year-Old Palace Hotel",
+    "rating": 4.9,
+    "reviewCount": 380,
+    "priceLevel": 4,
+    "priceRangeEstimate": "$180 - $320 / night (est.)",
+    "address": "Shigar Valley, 30 km from Skardu",
+    "phone": "+92 5815 460100",
+    "coordinates": {
+      "lat": 35.429,
+      "lng": 75.748
+    },
+    "amenities": [
+      "Historic Raja Suites",
+      "Heritage Museum",
+      "Rose Garden Dining",
+      "Butler Service"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Serena+Shigar+Fort"
+    }
+  },
+  {
+    "id": "place-skardu-airport",
+    "name": "Skardu International Airport (KDU)",
+    "destinationSlug": "skardu",
+    "type": "airport",
+    "categoryLabel": "High-Altitude International Hub",
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "priceLevel": 1,
+    "priceRangeEstimate": "Daily commercial domestic & international flights",
+    "address": "Skardu Airport Rd, Gamba, Skardu",
+    "coordinates": {
+      "lat": 35.335,
+      "lng": 75.536
+    },
+    "photos": [],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Skardu+International+Airport"
+    }
+  },
+  {
+    "id": "place-fm-raikot-serai",
+    "name": "Raikot Serai Log Cottages",
+    "destinationSlug": "fairy-meadows",
+    "type": "camping",
+    "categoryLabel": "Alpine Log Resort",
+    "rating": 4.8,
+    "reviewCount": 320,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$50 - $90 / night (est.)",
+    "address": "Fairy Meadows Plateau, Gilgit-Baltistan",
+    "coordinates": {
+      "lat": 35.386,
+      "lng": 74.579
+    },
+    "amenities": [
+      "Direct Nanga Parbat View",
+      "Wood Stove Heating",
+      "Dining Tent",
+      "Hot Water Buckets"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Raikot+Serai+Fairy+Meadows"
+    }
+  },
+  {
+    "id": "place-deosai-glamping",
+    "name": "Sheosar Glamping Camp Deosai",
+    "destinationSlug": "deosai",
+    "type": "camping",
+    "categoryLabel": "High-Altitude Eco Camp",
+    "rating": 4.6,
+    "reviewCount": 140,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$45 - $85 / night (est.)",
+    "address": "Sheosar Lake, Deosai National Park",
+    "coordinates": {
+      "lat": 35.042,
+      "lng": 75.39
+    },
+    "amenities": [
+      "Weatherproof Canvas Tents",
+      "Sleeping Bags & Cots",
+      "Fresh Meals Cooked on Site"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sheosar+Lake+Deosai"
+    }
+  },
+  {
+    "id": "place-concordia-camp",
+    "name": "Concordia Glacial Camp (Seasonal)",
+    "destinationSlug": "k2-base-camp",
+    "type": "camping",
+    "categoryLabel": "Glacial Expedition Base",
+    "rating": 4.9,
+    "reviewCount": 92,
+    "priceLevel": 3,
+    "priceRangeEstimate": "Part of expedition packages ($2,500 - $4,200 total)",
+    "address": "Concordia, Baltoro Glacier, Gilgit-Baltistan",
+    "coordinates": {
+      "lat": 35.78,
+      "lng": 76.51
+    },
+    "amenities": [
+      "Expedition Mess Tent",
+      "Mountain Guide Escort",
+      "Satellite Phone Link"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Concordia+Glacier+Pakistan"
+    }
+  },
+  {
+    "id": "place-serena-swat",
+    "name": "Swat Serena Hotel",
+    "destinationSlug": "swat",
+    "type": "hotel",
+    "categoryLabel": "Colonial Heritage Hotel",
+    "rating": 4.7,
+    "reviewCount": 620,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$90 - $160 / night (est.)",
+    "address": "Club House Road, Saidu Sharif, Swat",
+    "phone": "+92 946 9240100",
+    "coordinates": {
+      "lat": 34.75,
+      "lng": 72.355
+    },
+    "amenities": [
+      "Outdoor Pool",
+      "Lush Gardens",
+      "Traditional Pashtun Dining",
+      "Tennis Court"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Swat+Serena+Hotel"
+    }
+  },
+  {
+    "id": "place-naran-hotel-one",
+    "name": "Hotel One Naran",
+    "destinationSlug": "naran-kaghan",
+    "type": "hotel",
+    "rating": 4.5,
+    "reviewCount": 310,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$55 - $95 / night (est.)",
+    "address": "Main Bazar, Naran, KP",
+    "coordinates": {
+      "lat": 34.908,
+      "lng": 73.653
+    },
+    "amenities": [
+      "Heating",
+      "River View",
+      "Restaurant",
+      "Free Wi-Fi"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hotel+One+Naran"
+    }
+  },
+  {
+    "id": "place-neelum-resort",
+    "name": "Wadi Resort Keran",
+    "destinationSlug": "neelum-valley",
+    "type": "guesthouse",
+    "rating": 4.4,
+    "reviewCount": 220,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$35 - $65 / night (est.)",
+    "address": "Keran Riverside, Neelum Valley, AJK",
+    "coordinates": {
+      "lat": 34.66,
+      "lng": 73.95
+    },
+    "amenities": [
+      "Riverbank Lawn",
+      "Bonfire",
+      "Kashmiri Cuisine"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Wadi+Resort+Keran+Neelum"
+    }
+  },
+  {
+    "id": "place-murree-pearl-continental",
+    "name": "Pearl Continental Hotel Bhurban",
+    "destinationSlug": "murree-galyat",
+    "type": "hotel",
+    "categoryLabel": "5-Star Alpine Golf Resort",
+    "rating": 4.7,
+    "reviewCount": 1400,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$110 - $210 / night (est.)",
+    "address": "Bhurban, Murree Hills, Punjab",
+    "phone": "+92 51 3355700",
+    "coordinates": {
+      "lat": 33.95,
+      "lng": 73.45
+    },
+    "amenities": [
+      "Golf Course",
+      "Heated Indoor Pool",
+      "Spa",
+      "Panoramic Dining",
+      "Helipad"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=PC+Hotel+Bhurban"
+    }
+  },
+  {
+    "id": "place-hindukush-heights",
+    "name": "Hindukush Heights Chitral",
+    "destinationSlug": "chitral-kalash",
+    "type": "hotel",
+    "categoryLabel": "Boutique Mountain Retreat",
+    "rating": 4.8,
+    "reviewCount": 180,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$110 - $180 / night (est.)",
+    "address": "Gankorini, Chitral, KP",
+    "coordinates": {
+      "lat": 35.88,
+      "lng": 71.79
+    },
+    "amenities": [
+      "Terrace View of Tirich Mir",
+      "Organic Farm Cuisine",
+      "Library",
+      "Cultural Guides"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hindukush+Heights+Chitral"
+    }
+  },
+  {
+    "id": "place-isb-serena",
+    "name": "Islamabad Serena Hotel",
+    "destinationSlug": "islamabad",
+    "type": "hotel",
+    "categoryLabel": "5-Star Luxury Palace",
+    "rating": 4.8,
+    "reviewCount": 3200,
+    "priceLevel": 4,
+    "priceRangeEstimate": "$190 - $340 / night (est.)",
+    "address": "Khayaban-e-Suhrawardy, G-5/1, Islamabad",
+    "phone": "+92 51 2874000",
+    "website": "https://www.serenahotels.com/islamabad",
+    "coordinates": {
+      "lat": 33.715,
+      "lng": 73.1
+    },
+    "amenities": [
+      "14 Acres of Islamic Gardens",
+      "Outdoor Pool",
+      "Maisha Luxury Spa",
+      "7 Gourmet Restaurants",
+      "Top Security"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Islamabad+Serena+Hotel"
+    }
+  },
+  {
+    "id": "place-isb-faisal-mosque",
+    "name": "Shah Faisal Mosque",
+    "destinationSlug": "islamabad",
+    "type": "attraction",
+    "categoryLabel": "National Architectural Icon",
+    "rating": 4.9,
+    "reviewCount": 14500,
+    "priceLevel": 1,
+    "priceRangeEstimate": "Free entry (dress modestly)",
+    "address": "Shah Faisal Ave, E-8, Islamabad",
+    "coordinates": {
+      "lat": 33.7297,
+      "lng": 73.0372
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1594897030560-69273c5cf8c3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "openingHours": "05:00 - 21:00 Daily",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Faisal+Mosque+Islamabad"
+    }
+  },
+  {
+    "id": "place-isb-airport",
+    "name": "Islamabad International Airport (ISB)",
+    "destinationSlug": "islamabad",
+    "type": "airport",
+    "rating": 4.6,
+    "reviewCount": 6800,
+    "priceLevel": 1,
+    "priceRangeEstimate": "24/7 International hub",
+    "address": "New Islamabad Airport Rd, Fateh Jang",
+    "coordinates": {
+      "lat": 33.56,
+      "lng": 72.85
+    },
+    "photos": [],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Islamabad+International+Airport"
+    }
+  },
+  {
+    "id": "place-lahore-pearl-continental",
+    "name": "Pearl Continental Hotel Lahore",
+    "destinationSlug": "lahore",
+    "type": "hotel",
+    "rating": 4.6,
+    "reviewCount": 3800,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$95 - $170 / night (est.)",
+    "address": "Mall Road, GOR, Lahore, Punjab",
+    "phone": "+92 42 111 505 505",
+    "coordinates": {
+      "lat": 31.555,
+      "lng": 74.33
+    },
+    "amenities": [
+      "Central City Location",
+      "Outdoor Pool",
+      "Multiple Dining Outlets",
+      "Airport Shuttle"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Pearl+Continental+Lahore"
+    }
+  },
+  {
+    "id": "place-lahore-badshahi",
+    "name": "Badshahi Mosque",
+    "destinationSlug": "lahore",
+    "type": "attraction",
+    "rating": 4.9,
+    "reviewCount": 18200,
+    "priceLevel": 1,
+    "priceRangeEstimate": "Free entry (courtesy footwear token)",
+    "address": "Walled City, Lahore",
+    "coordinates": {
+      "lat": 31.5881,
+      "lng": 74.3106
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "openingHours": "08:00 - 20:00 Daily",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Badshahi+Mosque+Lahore"
+    }
+  },
+  {
+    "id": "place-karachi-marriott",
+    "name": "Karachi Marriott Hotel",
+    "destinationSlug": "karachi",
+    "type": "hotel",
+    "rating": 4.5,
+    "reviewCount": 3100,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$120 - $210 / night (est.)",
+    "address": "9 Abdullah Haroon Rd, Civil Lines, Karachi",
+    "coordinates": {
+      "lat": 24.848,
+      "lng": 67.025
+    },
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Fine Dining",
+      "Business Lounge"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karachi+Marriott+Hotel"
+    }
+  },
+  {
+    "id": "place-multan-ramada",
+    "name": "Ramada by Wyndham Multan",
+    "destinationSlug": "multan",
+    "type": "hotel",
+    "rating": 4.5,
+    "reviewCount": 920,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$65 - $110 / night (est.)",
+    "address": "76 Abdali Rd, Multan, Punjab",
+    "coordinates": {
+      "lat": 30.19,
+      "lng": 71.46
+    },
+    "amenities": [
+      "Pool",
+      "Fitness Center",
+      "Buffet Breakfast",
+      "Free Wi-Fi"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ramada+Multan"
+    }
+  },
+  {
+    "id": "place-peshawar-serena",
+    "name": "Peshawar Serena Hotel",
+    "destinationSlug": "peshawar",
+    "type": "hotel",
+    "rating": 4.7,
+    "reviewCount": 1600,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$110 - $180 / night (est.)",
+    "address": "Khyber Road, Peshawar Cantonment, KP",
+    "coordinates": {
+      "lat": 34.01,
+      "lng": 71.54
+    },
+    "amenities": [
+      "Pool",
+      "Pashtun Heritage Courtyard",
+      "Top Security",
+      "Free Wi-Fi"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Peshawar+Serena+Hotel"
+    }
+  },
+  {
+    "id": "place-taxila-museum",
+    "name": "Taxila Museum & Heritage Grounds",
+    "destinationSlug": "taxila",
+    "type": "attraction",
+    "rating": 4.8,
+    "reviewCount": 1450,
+    "priceLevel": 1,
+    "priceRangeEstimate": "$5 tourist admission ticket",
+    "address": "HMC Road, Taxila, Punjab",
+    "coordinates": {
+      "lat": 33.746,
+      "lng": 72.839
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "openingHours": "09:00 - 17:00 (closed during prayer breaks)",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Taxila+Museum"
+    }
+  },
+  {
+    "id": "place-mohenjo-archaeo-resort",
+    "name": "PTDC Motel Mohenjo-daro",
+    "destinationSlug": "mohenjo-daro",
+    "type": "guesthouse",
+    "rating": 4.1,
+    "reviewCount": 95,
+    "priceLevel": 1,
+    "priceRangeEstimate": "$30 - $50 / night (est.)",
+    "address": "Archaeological Complex, Larkana, Sindh",
+    "coordinates": {
+      "lat": 27.33,
+      "lng": 68.14
+    },
+    "amenities": [
+      "Direct Park Access",
+      "Dining Hall",
+      "Curator Guides"
+    ],
+    "photos": [],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mohenjo+Daro+Museum"
+    }
+  },
+  {
+    "id": "place-cholistan-camp",
+    "name": "Cholistan Desert Glamping Camp",
+    "destinationSlug": "derawar-cholistan",
+    "type": "camping",
+    "rating": 4.6,
+    "reviewCount": 110,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$50 - $90 / night (est.)",
+    "address": "Derawar Fort Dunes, Bahawalpur, Punjab",
+    "coordinates": {
+      "lat": 28.58,
+      "lng": 71.33
+    },
+    "amenities": [
+      "Bedouin Tents",
+      "Campfire",
+      "Folk Music",
+      "Camel Rides"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Derawar+Fort"
+    }
+  },
+  {
+    "id": "place-zaver-pearl-continental",
+    "name": "Zaver Pearl Continental Hotel Gwadar",
+    "destinationSlug": "gwadar",
+    "type": "hotel",
+    "categoryLabel": "5-Star Cliffside Resort",
+    "rating": 4.6,
+    "reviewCount": 980,
+    "priceLevel": 3,
+    "priceRangeEstimate": "$120 - $220 / night (est.)",
+    "address": "Koh-e-Batil, Gwadar, Balochistan",
+    "phone": "+92 86 4212223",
+    "coordinates": {
+      "lat": 25.11,
+      "lng": 62.33
+    },
+    "amenities": [
+      "Cliffside Ocean Views",
+      "Outdoor Pool",
+      "Seafood Grill",
+      "Free Airport Shuttle"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zaver+Pearl+Continental+Gwadar"
+    }
+  },
+  {
+    "id": "place-ziarat-ptdc",
+    "name": "PTDC Motel Ziarat",
+    "destinationSlug": "ziarat",
+    "type": "hotel",
+    "rating": 4.3,
+    "reviewCount": 210,
+    "priceLevel": 2,
+    "priceRangeEstimate": "$40 - $70 / night (est.)",
+    "address": "Residency Road, Ziarat, Balochistan",
+    "coordinates": {
+      "lat": 30.38,
+      "lng": 67.72
+    },
+    "amenities": [
+      "Pine Garden",
+      "Heating",
+      "Mountain Views"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "source": "curated",
+    "bookingLinks": {
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=PTDC+Motel+Ziarat"
+    }
+  }
+]

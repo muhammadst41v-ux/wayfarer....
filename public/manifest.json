@@ -1,0 +1,21 @@
+{
+  "short_name": "Wayfarer",
+  "name": "Wayfarer | City & Travel Discovery Studio",
+  "description": "Curated city trips, underground experiences, local itineraries, and AI-powered journey planner for students and young professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0b0d10",
+  "background_color": "#0b0d10",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=192&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=512&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
